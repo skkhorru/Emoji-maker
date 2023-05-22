@@ -17,17 +17,17 @@ export default () => {
         <a
           text-neutral-400 border-b border-neutral-400 border-dotted
           hover:text-violet-400
-          href="https://ddiu.io" target="_blank"
+          href="https://www.facebook.com/drt.ceo" target="_blank"
         >
-          Diu
+          sk khorrum
         </a>
         <span px-1>|</span>
         <a
           text-neutral-400 border-b border-neutral-400 border-dotted
           hover:text-violet-400
-          href="https://github.com/ddiu8081/fluent-emoji-maker" target="_blank"
+          href="https://sk-khorrum-blog.blogspot.com/" target="_blank"
         >
-          Source Code
+          blog
         </a>
       </p>
     </footer>
